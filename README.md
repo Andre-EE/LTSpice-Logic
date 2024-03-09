@@ -1,4 +1,4 @@
-These are some 7400-series like logic devices. I'll build the devices necessary to make a shift register, and then create a sim showing SPI control of a 32-bit serial to parallel converter. This type of device is useful when you need a large number of digital outputs and have limited I/O.
+These are some 7400-series like logic devices. I'll build the devices necessary to make a shift register, and then create a sim showing SPI control of a 16-bit serial to parallel converter. This type of device is useful when you need a large number of digital outputs and have limited I/O. The sim is super slow with multiple shift registers, so its not super practical.
 
 Devices modeled:
 - 74AC00 - NAND gate
